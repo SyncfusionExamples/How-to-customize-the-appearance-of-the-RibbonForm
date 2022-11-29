@@ -53,3 +53,5 @@ You can customize the appearance of each RibbonControlAdv items by setting its p
     TouchStylecolor.DropDownTitleBackground = Color.LightGray;
     //Apply colors to RibbonControlAdv
     this.ribbonControlAdv1.ApplyTouchStyleColorTable(TouchStylecolor);
+
+![Customize RibbonForm](Images/Customize%20RibbonForm.png)
